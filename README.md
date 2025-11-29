@@ -113,16 +113,15 @@ Removed instantly from:
 ✔ UI
 ✔ LocalStorage
 
-LOGIN PAGE 
-  
+📌LOGIN PAGE 
 <img width="1910" height="927" alt="login page" src="https://github.com/user-attachments/assets/4c3d9972-5b11-4d93-8859-569c26a14cb2" />
 
 
-HOME PAGE
+📌HOME PAGE
 <img width="1867" height="917" alt="home page" src="https://github.com/user-attachments/assets/44006a8a-c040-4dc2-9f7e-98413c1e14d6" />
 
 
-POPUP SONG PLAYER
+📌POPUP SONG PLAYER
 <img width="1875" height="917" alt="Song player page" src="https://github.com/user-attachments/assets/f5f1015d-0e66-46a4-bd6f-d70663a9feee" />
 
 
